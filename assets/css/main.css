@@ -1,0 +1,24 @@
+
+.imagenFondo1 {
+  background-image: url("../img/calle.gif");
+  background-repeat: no-repeat;
+}
+.imagenFondo2 {
+  background-image: url("../img/city.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.anchoContenedor {
+  width: 100%;
+  height: 665px;
+}
+
+.centrarTexto {
+  text-align: center;
+}
+.textoBlanco {
+  color: white;
+}
+.sizeText {
+  font-size: 500%;
+}
